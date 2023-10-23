@@ -15,9 +15,11 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left" >
-<a href="https://linkedin.com/in/euleotech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="euleotech/" height="30" width="40" /></a> <a href=
-" https://instagram.com/euleotech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src /images/icons/Social/instagram.svg" alt="euleotech/" height="30" width="40" /></a>
-<a href="https://www.behance.net/behance. net/euleotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ behance.svg" alt="behance.net/euleotech" height="30" width="40" /></a> </p>
+<a href="https://instagram.com/https://www.instagram.com/euleotech/" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/euleotech/" height="30" width= "40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/euleotech" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/euleotech " altura="30" largura="40" /></a>
+</p>
+
+
 
 <!---
 
